@@ -26,8 +26,8 @@ github_username: escsvfu
 
 # Build settings
 markdown: kramdown
-theme: slate
-#remote_theme: pages-themes/slate@v0.2.0
+#theme: minimal
+remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
