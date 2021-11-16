@@ -26,14 +26,13 @@ github_username: escsvfu
 
 # Build settings
 markdown: kramdown
-theme: minima
-#remote_theme: pages-themes/slate@v0.2.0
+#theme: minima
+remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-feed
-#  - jekyll-remote-theme
+  - jekyll-remote-theme
 #show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-#show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-#google_analytics: G-LMS9R7KWBB
+google_analytics: G-LMS9R7KWBB
 
 
 # Exclude from processing.
@@ -47,6 +46,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+- *.sh
 #=======
 #theme: jekyll-theme-slate
 #>>>>>>> 4360f91b5e23d6cbcc61394c47959260448aa61b
