@@ -1,53 +1,5 @@
-#<<<<<<< HEAD
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: "Вестник СВФУ"
-email: "vestnik2013@inbox.ru"
-description: >- # this means to ignore newlines until "baseurl:"
-  Научный журнал, периодическое издание, основан в 2004 г. Учредитель и издатель - Северо-Восточный федеральный университет имени М.К. Аммосова.
-baseurl: "/Journal" # the subpath of your site, e.g. /blog
-domain: escsvfu.github.io
-url: "https://escscvfu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-github_username: escsvfu
-
-# Build settings
-markdown: kramdown
-theme: minima
-#theme: jekyll-theme-slate
-#remote_theme: pages-themes/slate@v0.2.0
-plugins:
-  - jekyll-feed
-#  - jekyll-remote-theme
-#show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-#show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+title: Вестник СВФУ
+description: Научный журнал, периодическое издание, основан в 2004 г. Учредитель и издатель - Северо-Восточный федеральный университет имени М.К. Аммосова.
+show_downloads: true
 google_analytics: G-LMS9R7KWBB
-
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-#=======
-#theme: jekyll-theme-slate
-#>>>>>>> 4360f91b5e23d6cbcc61394c47959260448aa61b
+theme: jekyll-theme-slate
