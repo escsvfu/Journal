@@ -22,12 +22,12 @@ baseurl: "/Journal/" # the subpath of your site, e.g. /blog
 domain: escsvfu.github.io
 url: "https://escscvfu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-#github_username: escsvfu
+# github_username: escsvfu
 
 # Build settings
 markdown: kramdown
-#theme: jekyll-theme-slate
-remote_theme: pages-themes/slate@v0.2.0
+theme: jekyll-theme-slate
+#remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
@@ -47,6 +47,8 @@ google_analytics: G-LMS9R7KWBB
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+- *.sh
+- *.swp
 #=======
 #theme: jekyll-theme-slate
 #>>>>>>> 4360f91b5e23d6cbcc61394c47959260448aa61b
