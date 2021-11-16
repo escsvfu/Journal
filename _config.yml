@@ -18,7 +18,7 @@ title: "Вестник СВФУ"
 email: "vestnik2013@inbox.ru"
 description: >- # this means to ignore newlines until "baseurl:"
   Научный журнал, периодическое издание, основан в 2004 г. Учредитель и издатель - Северо-Восточный федеральный университет имени М.К. Аммосова.
-baseurl: "/Journal/" # the subpath of your site, e.g. /blog
+baseurl: "/Journal" # the subpath of your site, e.g. /blog
 domain: escsvfu.github.io
 url: "https://escscvfu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
