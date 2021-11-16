@@ -3,7 +3,7 @@ layout: default
 title: Редакция
 permalink: /editorial-team/
 ---
-СОСТАВ РЕДАКЦИОННОЙ КОЛЛЕГИИ
+# СОСТАВ РЕДАКЦИОННОЙ КОЛЛЕГИИ
 
  
 
@@ -17,9 +17,8 @@ permalink: /editorial-team/
 
  
 
- 
 
-ЧЛЕНЫ РЕДКОЛЛЕГИИ
+#ЧЛЕНЫ РЕДКОЛЛЕГИИ
 
  
 

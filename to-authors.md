@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Авторам
+permalink: /to-authors/
 ---
 [Главная](./index.html)
 [О нас](./about)
