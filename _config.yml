@@ -22,7 +22,7 @@ baseurl: "/Journal/" # the subpath of your site, e.g. /blog
 domain: escsvfu.github.io
 url: "https://escscvfu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-#github_username: escsvfu
+github_username: escsvfu
 
 # Build settings
 markdown: kramdown
