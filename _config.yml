@@ -26,11 +26,11 @@ url: "https://escscvfu.github.io" # the base hostname & protocol for your site, 
 
 # Build settings
 markdown: kramdown
-#theme: jekyll-theme-slate
-remote_theme: pages-themes/slate@v0.2.0
+theme: jekyll-theme-slate
+#remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+#  - jekyll-remote-theme
 #show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 #show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 google_analytics: G-LMS9R7KWBB
