@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -46,3 +47,6 @@ google_analytics: G-LMS9R7KWBB
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+=======
+theme: jekyll-theme-slate
+>>>>>>> 4360f91b5e23d6cbcc61394c47959260448aa61b
