@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+#<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -14,26 +14,26 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Вестник СВФУ
-email: vestnik2013@inbox.ru
+title: "Вестник СВФУ"
+email: "vestnik2013@inbox.ru"
 description: >- # this means to ignore newlines until "baseurl:"
   Научный журнал, периодическое издание, основан в 2004 г. Учредитель и издатель - Северо-Восточный федеральный университет имени М.К. Аммосова.
-baseurl: /Journal/ # the subpath of your site, e.g. /blog
+baseurl: "/Journal/" # the subpath of your site, e.g. /blog
 domain: escsvfu.github.io
-url: https://escscvfu.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://escscvfu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: escsvfu
 
 # Build settings
 markdown: kramdown
-#theme: minimal
-remote_theme: pages-themes/slate@v0.2.0
+theme: minima
+#remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+#  - jekyll-remote-theme
 #show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 #show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: G-LMS9R7KWBB
+#google_analytics: G-LMS9R7KWBB
 
 
 # Exclude from processing.
@@ -47,6 +47,6 @@ google_analytics: G-LMS9R7KWBB
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-=======
-theme: jekyll-theme-slate
->>>>>>> 4360f91b5e23d6cbcc61394c47959260448aa61b
+#=======
+#theme: jekyll-theme-slate
+#>>>>>>> 4360f91b5e23d6cbcc61394c47959260448aa61b
